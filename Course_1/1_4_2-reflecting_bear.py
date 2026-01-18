@@ -3,7 +3,7 @@
 import numpy as np
 from numpy.linalg import norm, inv
 from numpy import transpose
-from bearNecessities import *
+from assets.bearNecessities import *
 import matplotlib
 matplotlib.use("TkAgg")
 import matplotlib.pyplot as plt
